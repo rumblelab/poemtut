@@ -1,0 +1,7 @@
+roygbiv
+red
+orange
+blue
+purple
+violet
+These are the colors of the rainbow
